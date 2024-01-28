@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 b's comment
+=======
+first comment
+I am adding a change here
+>>>>>>> 7dea680 (changed commit)
